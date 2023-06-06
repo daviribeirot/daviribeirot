@@ -1,7 +1,7 @@
 <h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Davi!</h1>
 
 - :fire: Desenvolvedor Fullstack. 
-- :man_technologist: Veja mais no meu [linkedin](https://www.linkedin.com/in/daviribeirot/)
+- :man_technologist: Veja mais no meu [Linkedin](https://www.linkedin.com/in/daviribeirot/)
 <br>
 
 ## 🛠️; Tech Stack:
