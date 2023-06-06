@@ -23,7 +23,7 @@
 <br>
 
 ## :gear: Análise Github:
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviribeirot&layout=compact&theme=vision-friendly-dark" alt="daviribeirot most languages"/>
+<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daviribeirot&layout=compact&theme=vision-friendly-dark" alt="daviribeirot most languages"/>
 
 ## Contatos:
 
