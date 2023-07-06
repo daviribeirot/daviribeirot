@@ -1,8 +1,8 @@
-<h1 align="left">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, sou Davi!</h1>
+<h1 align="left">Olá, sou o Davi!</h1>
 
-- :fire: Desenvolvedor Fullstack. 
-- :man_technologist: Veja mais no meu [Linkedin](https://www.linkedin.com/in/daviribeirot/)
-<br>
+<h3 align="left"> Me encontrei no mundo da programação e adquiri muita curiosidade e necessidade de buscar conhecimento para construir uma bagagem. Após concluir o bootcamp da Driven Education, me tornei um Desenvolvedor Fullstack. </h3>
+
+[![Exemplo de GIF](https://i.gifer.com/A3Pm.gif)](https://example.com/destino)
 
 ## 🛠️ Tech Stack:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
