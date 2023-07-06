@@ -1,8 +1,8 @@
 <h1 align="left">Olá, sou o Davi!</h1>
 
-<h3 align="left"> Me encontrei no mundo da programação e adquiri muita curiosidade e necessidade de buscar conhecimento para construir uma bagagem. Após concluir o bootcamp da Driven Education, me tornei um Desenvolvedor Fullstack. </h3>
+<h3 align="left"> Me encontrei no mundo da programação e adquiri muita curiosidade e necessidade de buscar conhecimento para construir uma bagagem. Após concluir o bootcamp da Driven Education, me tornei um Desenvolvedor Fullstack. 🥳 </h3>
 
-[![Exemplo de GIF](https://i.gifer.com/A3Pm.gif)](https://example.com/destino)
+![The Office Gif](A3Pm.gif)
 
 ## 🛠️ Tech Stack:
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
